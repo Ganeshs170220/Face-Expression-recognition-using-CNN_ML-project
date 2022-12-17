@@ -11,3 +11,7 @@ predict the type of a face expression and its percentage of accuracy.
 - Tensor flow
 - keras from Tensor flow
 - PIL
+
+### Files
+- training model.ipynb is a training file in which we train the model with the dataset.
+- prediction model.ipynb is a prediction file in which we predict the type of a face expression.
